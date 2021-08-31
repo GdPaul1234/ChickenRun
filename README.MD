@@ -1,10 +1,5 @@
 # Challenge ChickenRun
 
-## Installer les dépendances
-```
-npm install
-```
-
 ## Création de la base de données
 Ce projet utilise le SGBD PostgreSQL.
 
